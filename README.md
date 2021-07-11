@@ -10,7 +10,7 @@
 # 
 
 - 🔭 I’m currently working at Exbyte Studios [click here or on the cloud below](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
-- 🌱 I’m currently learning Fundamental inforamtics and math in MAI
+- 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 👯 I’m looking to collaborate in researches
 - 📫 How to reach me: [email me](RulianValeriy@yandex.ru) or [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='website' height='40'>](https://vk.com/ruliandeo/) Discord: RulianCat#4303
 - ⚡ Fun fact: 73 is best number
