@@ -3,16 +3,16 @@
 
 
 # Skills:  
-- Lang: С#, C++, Java, Python 
+- Lang: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='website' height='40'>
 
-- Frameworks: Unity (Gamedev), WinForms
+- Frameworks: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='website' height='40'>, WinForms
 
 # 
 
 - 🔭 I’m currently working at Exbyte Studios [click here or on the cloud below](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
 - 🌱 I’m currently learning Fundamental inforamtics and math in MAI
 - 👯 I’m looking to collaborate in researches
-- 📫 How to reach me: [email me](RulianValeriy@yandex.ru) or [Find me in Vk](https://vk.com/ruliandeo/) Discord: RulianCat#4303
+- 📫 How to reach me: [email me](RulianValeriy@yandex.ru) or [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='website' height='40'>](https://vk.com/ruliandeo/) Discord: RulianCat#4303
 - ⚡ Fun fact: 73 is best number
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeoEsor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://exbytestudios.com/)  
