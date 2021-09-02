@@ -25,7 +25,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoEsor&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeoEsor)  
+![GitHub Activity Graph]( https://activity-graph.herokuapp.com/graph?username=DeoEsor)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DeoEsor)  
 
