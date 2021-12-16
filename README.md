@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Valeriy
-![](https://s.fishki.net/upload/users/2020/04/27/347563/26c9af3832d65d50a71cc1e314b694b3.jpg)
-
+I'm student of MAI. Currently team lead at [Exbyte Studios](https://vk.com/exbytestudios)
 
 # Skills:  
 - Lang: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='website' height='40'>
