@@ -17,4 +17,4 @@ I'm student of MAI. Currently team lead at [Exbyte Studios](https://vk.com/exbyt
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeoEsor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://exbytestudios.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeoEsor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeoEsor)]()
