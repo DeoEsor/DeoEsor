@@ -5,7 +5,7 @@ I'm student of MAI. Currently team lead at [Exbyte Studios](https://vk.com/exbyt
 - Lang: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='website' height='40'>
 
 - Frameworks: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='website' height='40'>, WinForms, WPF
-- Linux, Git, Perforce
+- Linux, Git
 
 # 
 
