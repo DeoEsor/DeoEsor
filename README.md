@@ -4,7 +4,9 @@ I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudio
 # Skills:  
 - Lang: C#
 
-- Frameworks: WPF, ASP.Net
+- Frameworks: WPF, ASP.Net, EF Core
+- Reddis(Check Validator Project or Chess Online reps) / Apache Kafka (Learning)
+- MS SQL
 - Linux, Git, [Docker](https://hub.docker.com/u/deoesor), K8s
 
 # 
