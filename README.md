@@ -1,19 +1,17 @@
 ### Hi there 👋, my name is Valeriy
-I'm student of MAI. Currently team lead at [Exbyte Studios](https://vk.com/exbytestudios)
+I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudios)
 
 # Skills:  
-- Lang: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='website' height='40'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='website' height='40'>
+- Lang: C#
 
-- Frameworks: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='website' height='40'>, WinForms, WPF
-- Linux, Git
+- Frameworks: WPF, ASP.Net
+- Linux, Git, [Docker](https://hub.docker.com/u/deoesor), K8s
 
 # 
 
-- 🔭 I’m currently working at Exbyte Studios [click here or on the cloud below](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 👯 I’m looking to collaborate in researches
-- 📫 How to reach me: [email me](RulianValeriy@yandex.ru) or [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='website' height='40'>](https://vk.com/ruliandeo/) Discord: RulianCat#4303
-- ⚡ Fun fact: 73 is best number
+- 📫 How to reach me: [email me](RulianValeriy@yandex.ru) or [VK](https://vk.com/ruliandeo/) Discord: RulianCat#4303
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeoEsor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://exbytestudios.com/)  
 
