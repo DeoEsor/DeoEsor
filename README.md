@@ -4,7 +4,7 @@ I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudio
 <img alt="Coverage" src="https://www.codewars.com/users/DeoEsor/badges/large">
 
 # Skills:  
-- Lang: C#
+- Lang: C#, C++, Python, C
 
 - Frameworks: WPF, ASP.Net, EF Core
 - Tech: RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
