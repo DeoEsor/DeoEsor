@@ -7,8 +7,8 @@ I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudio
 - Lang: C#
 
 - Frameworks: WPF, ASP.Net, EF Core
-- RabbitMQ(Check Validator Project or Chess Online reps) / Apache Kafka (Learning) / Redis / Graphana + Prometheus
-- MS SQL
+- RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
+- MS SQL / ClickHouse (Learning)
 - Linux, Git, [Docker](https://hub.docker.com/u/deoesor), K8s
 
 # 
