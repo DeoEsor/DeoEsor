@@ -9,7 +9,7 @@ I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudio
 - Frameworks: WPF, ASP.Net, EF Core
 - Tech: RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
 - DB: MS SQL / ClickHouse (Learning)
-- Linux, Git, [Docker](https://hub.docker.com/u/deoesor), K8s
+- Linux, Git, Docker, K8s
 
 # 
 
