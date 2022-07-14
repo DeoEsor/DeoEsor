@@ -14,7 +14,6 @@ I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudio
 # 
 
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
-- 👯 I’m looking to collaborate in researches
 - 📫 How to reach me: 
    - Email: RulianValeriy@yandex.ru
    - Telegram: https://t.me/DeosEsor
