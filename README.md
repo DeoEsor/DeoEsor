@@ -5,8 +5,6 @@ Codewars : <img alt="Coverage" src="https://www.codewars.com/users/DeoEsor/badge
 
 Leetcode : https://leetcode.com/DeoEsor/
 
-https://www.codewars.com/users/DeoEsor
-
 
 # Skills:  
 - Lang: C#, C++, Python, C
