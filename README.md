@@ -1,7 +1,12 @@
 ### Hi there 👋, my name is Valeriy
 I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudios)
 
-<img alt="Coverage" src="https://www.codewars.com/users/DeoEsor/badges/large">
+Codewars : <img alt="Coverage" src="https://www.codewars.com/users/DeoEsor/badges/large">/https://www.codewars.com/users/DeoEsor
+
+Leetcode : https://leetcode.com/DeoEsor/
+
+https://www.codewars.com/users/DeoEsor
+
 
 # Skills:  
 - Lang: C#, C++, Python, C
