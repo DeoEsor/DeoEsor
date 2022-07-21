@@ -9,7 +9,7 @@ Leetcode : https://leetcode.com/DeoEsor/
 # Skills:  
 - Lang: C#, C++, Python, C
 
-- Frameworks: WPF, ASP.Net, EF Core
+- Frameworks: WPF, ASP.Net, EF Core, Unity (GameDev)
 - Tech: RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
 - DB: MS SQL / ClickHouse (Learning)
 - Linux, Git, Docker, K8s
