@@ -1,9 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋,+my+name+is+Valeriy)](https://git.io/typing-svg)
 I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudios) 
 
-Codewars : <img alt="Coverage" src="https://www.codewars.com/users/DeoEsor/badges/large">
-
-Leetcode : [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DeoEsor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+Busy by solving some problems on LeetCode, CodeWars and CF.
+Currently working in Exbyte Studios and MAI.
 
 
 # Skills:  
@@ -13,12 +12,6 @@ Leetcode : [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api
 - Tech: RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
 - DB: MS SQL / ClickHouse (Learning)
 - Linux, Git, Docker, K8s
-
-# CV
-
-Ru: ![Ru](https://github.com/DeoEsor/DeoEsor/edit/main/Вартумян_Валерий.pdf)
-
-En: ![En](https://github.com/DeoEsor/DeoEsor/edit/main/Vartumyan_Valeriy.pdf)
 
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 📫 How to reach me: 
