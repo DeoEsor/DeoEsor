@@ -2,6 +2,7 @@
 I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudios) 
 
 Busy by solving some problems on LeetCode, CodeWars and CF.
+
 Currently working in Exbyte Studios and MAI.
 
 
