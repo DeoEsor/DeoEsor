@@ -6,19 +6,35 @@ Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [Cod
 Currently working in Exbyte Studios and MAI.
 
 
-# Skills:  
+# Skills:
+
+(From high to lower)
+
 - Lang: C#, C++, Python, C
 
-- Frameworks: WPF, ASP.Net, EF Core, Unity (GameDev)
-- Tech: RabbitMQ / Apache Kafka (Learning) / Redis / Graphana + Prometheus
-- DB: MS SQL / ClickHouse (Learning)
-- Linux, Git, Docker, K8s
+      (In the plans) JS
+
+- Frameworks: WPF, Unity (GameDev), ASP.NET, EF Core
+
+         (In the plans) React
+         
+- Tech: RabbitMQ / Redis / Graphana + Prometheus / ELK / gRPC
+
+         (In the plans) Apache Kafka
+         
+- DB: MS SQL / MongoDB 
+
+         (In the plans) ClickHouse /  GraphDB / PostgreSQL
+         
+- DevOps: Linux, Git, Docker, GitHub Actions
+
+      (In the plans) k8s, Docker Swarm, Azure, GitLab
+      
+- Libs (C#): Docker.NET, DryIOC, 
+
 
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 📫 How to reach me: 
    - Email: RulianValeriy@yandex.ru
    - Telegram: https://t.me/DeosEsor
    - Discord: RulianCat#4303
-   
-   
-![](https://komarev.com/ghpvc/?username=your-github-username)
