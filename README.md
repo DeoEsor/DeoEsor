@@ -12,25 +12,15 @@ Currently working in Exbyte Studios and MAI.
 
 - Lang: C#, C++, Python, C
 
-      (In the plans) JS
-
 - Frameworks: WPF, Unity (GameDev), ASP.NET, EF Core
-
-         (In the plans) React
          
 - Tech: RabbitMQ / Redis / Graphana + Prometheus / ELK / gRPC
-
-         (In the plans) Apache Kafka
          
 - DB: MS SQL / MongoDB 
-
-         (In the plans) ClickHouse /  GraphDB / PostgreSQL
          
 - DevOps: Linux, Git, Docker, GitHub Actions
-
-      (In the plans) k8s, Docker Swarm, Azure, GitLab
       
-- Libs (C#): Docker.NET, DryIOC, 
+- Libs (Non-common) (C#): Docker.NET
 
 
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
