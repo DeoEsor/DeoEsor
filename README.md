@@ -1,9 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋,+my+name+is+Valeriy)](https://git.io/typing-svg)
-I'm student of MAI. Ex team lead at [Exbyte Studios](https://vk.com/exbytestudios) 
+I'm student of MAI. 
 
 Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
 
-Currently working in Exbyte Studios and MAI.
+Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and MAI.
 
 docker hub : https://hub.docker.com/u/deoesor
 
