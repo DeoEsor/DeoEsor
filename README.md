@@ -10,11 +10,9 @@ docker hub : https://hub.docker.com/u/deoesor
 
 # Skills:
 
-(From high to lower)
-
 - Lang: C#, C++, Python, C
 
-- Frameworks: WPF, Unity (GameDev), ASP.NET, EF Core
+- Frameworks: WPF, Unity (GameDev, Architecture, XR), ASP.NET, EF Core
          
 - Tech: RabbitMQ / Redis / Graphana + Prometheus / ELK / gRPC
          
