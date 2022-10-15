@@ -23,6 +23,7 @@ Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](ht
 - Tools: Rider, VS CODE (LOL?) (HATE VS)
 
 
+# Contacts
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 📫 How to reach me: 
    - Email: RulianValeriy@yandex.ru
