@@ -18,9 +18,9 @@ Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](ht
          
 - DB: MS SQL / MongoDB 
          
-- DevOps: Linux, Git, Docker, GitHub Actions
+- DevOps: Linux, Git, Docker, GitHub Actions, GitLab CI/CD
       
-- Tools: Rider, VS CODE (LOL?) (HATE VS)
+- Tools: Rider, VS CODE, MSBuild
 
 
 # Contacts
