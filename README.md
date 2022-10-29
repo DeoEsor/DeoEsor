@@ -6,6 +6,7 @@ Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [Cod
 Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](https://mai.ru/).
 
 [Docker Hub](https://hub.docker.com/u/deoesor)
+[Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan)
 
 
 # Skills:
