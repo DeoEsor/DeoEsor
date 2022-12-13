@@ -21,7 +21,11 @@ Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](ht
          
 - DevOps: Linux, Git, Docker, GitHub Actions, GitLab CI/CD
       
-- Tools: Rider, VS CODE, MSBuild
+- Tools: Rider, VS CODE, MSBuild, nmap, ssh and etc. (DevOps, Eth. Hacking and go-go-go)
+
+- Apps: Obsidian (Knowladge base), GitKraken (Open-Source Projects), 
+
+- Most Valuable resources Medium, Hack The Box, LeetCode
 
 
 # Contacts
