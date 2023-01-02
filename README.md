@@ -4,13 +4,14 @@
 <table>
          <tr> 
                   <td>
-                           I'm a student of MAI.
+- I'm a student of MAI.
 
-Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](https://mai.ru/).
+- Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](https://mai.ru/).
 
-Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
+- Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
 
-I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
+- I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). 
+- Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
                   </td>
                   <td>
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
