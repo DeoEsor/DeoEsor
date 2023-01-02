@@ -38,12 +38,6 @@
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" width="70"/>&nbsp;
                   </td>
-                  <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" width="70"/>&nbsp;
-                  </td>
-                  <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" width="70"/>&nbsp;
-                  </td>
          </tr>
          <tr> 
                   <td>Tools</td>
