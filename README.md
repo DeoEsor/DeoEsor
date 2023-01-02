@@ -60,6 +60,12 @@
                            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="70"/>&nbsp;
                   </td>
                   <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="Nuget" width="70"/>&nbsp;
+                  </td>
+         </tr>
+         <tr>
+                  <td>DevOps</td>
+                  <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="70"/>&nbsp;
                   </td>
                   <td>
@@ -70,9 +76,6 @@
                   </td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" width="70"/>&nbsp;
-                  </td>
-                  <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="Nuget" width="70"/>&nbsp;
                   </td>
          </tr>
          <tr>
