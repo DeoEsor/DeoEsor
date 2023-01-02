@@ -93,10 +93,13 @@
          <tr> 
                   <td>Apps/IDEs</td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Rider" width="70"/>&nbsp;
+                           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png?20220320173724" title="Rider" width="70"/>&nbsp;
                   </td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                     <img src="https://img.icons8.com/ios/512/obsidian.png" title="Obsidian" width="70"/>&nbsp;
                   </td>
          </tr>
          <tr>
