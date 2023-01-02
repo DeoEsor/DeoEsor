@@ -13,7 +13,6 @@ Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [Cod
 I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
                   </td>
                   <td>
-Contacts
 - 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
 - 📫 How to reach me: 
    - Email: RulianValeriy@yandex.ru
