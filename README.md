@@ -3,7 +3,7 @@
 
 <table>
 <tr> 
-<td>
+<td width="600">
 
 - I'm a student of MAI.
 
