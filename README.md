@@ -28,6 +28,12 @@ I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering 
          <tr> 
                   <td>Tools</td>
                   <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="70"/>&nbsp;
+                  </td>
+                  <td>
                            <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" width="70"/>&nbsp;
                   </td>
                   <td>
@@ -37,13 +43,7 @@ I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering 
                            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="70"/>&nbsp;
-                  </td>
-                  <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="k8s" width="70"/>&nbsp;
-                  </td>
-                  <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="70"/>&nbsp;
                   </td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Graphana" width="70"/>&nbsp;
