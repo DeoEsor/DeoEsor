@@ -1,12 +1,27 @@
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋,+my+name+is+Valeriy)](https://git.io/typing-svg)
-I'm a student of MAI.
+
+<table>
+         <tr> 
+                  <td>
+                           I'm a student of MAI.
 
 Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](https://mai.ru/).
 
 Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
 
 I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
-
+                  </td>
+                  <td>
+                           # Contacts
+- 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
+- 📫 How to reach me: 
+   - Email: RulianValeriy@yandex.ru
+   - [Telegram](https://t.me/DeosEsor)
+   - Discord: RulianCat#4303
+                  </td>
+         </tr>
+</table>
 
 ### :hammer_and_wrench: Languages and Tools :
 <table>
@@ -86,10 +101,3 @@ I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering 
                   </td>
          </tr>
 </table>
-
-# Contacts
-- 🌱 I’m currently learning Fundamental computer science and information technologies in MAI
-- 📫 How to reach me: 
-   - Email: RulianValeriy@yandex.ru
-   - [Telegram](https://t.me/DeosEsor)
-   - Discord: RulianCat#4303
