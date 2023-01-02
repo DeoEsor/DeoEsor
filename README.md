@@ -1,12 +1,11 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋,+my+name+is+Valeriy)](https://git.io/typing-svg)
-I'm student of MAI. 
-
-Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
+I'm a student of MAI.
 
 Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](https://mai.ru/).
 
-[Docker Hub](https://hub.docker.com/u/deoesor)
-[Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan)
+Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
+
+I share containers on [Docker Hub](https://hub.docker.com/u/deoesor). Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,32 +43,41 @@ Currently working in [Exbyte Studios](https://vk.com/exbytestudios) and [MAI](ht
                            <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="k8s" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" width="70"/>&nbsp;
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="graphana" width="70"/>&nbsp;
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Graphana" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" width="70"/>&nbsp;
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="Nuget" width="70"/>&nbsp;
                   </td>
          </tr>
-         <tr> 
+         <tr>
                   <td>DBs</td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="PostgreSQL" width="70"/>&nbsp;
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" width="70"/>&nbsp;
                   </td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="70"/>&nbsp;
                   </td>
          </tr>
          <tr> 
                   <td>Apps/IDEs</td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Rider" width="70"/>&nbsp;
-                  </td>       
+                  </td>
+                  <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width="70"/>&nbsp;
+                  </td>
          </tr>
          <tr>
                   <td>Frameworks</td>
