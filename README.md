@@ -14,6 +14,10 @@
 - I share my containers on [Docker Hub](https://hub.docker.com/u/deoesor). 
 
 - Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
+   
+- Sharing my project on [GitHub](https://github.com/DeoEsor)
+   
+- Sharing my snippets on [GitHub Gist](https://gist.github.com/DeoEsor)
 
 </td>
 <td>
