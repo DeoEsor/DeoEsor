@@ -104,12 +104,15 @@
                   </td>
          </tr>
          <tr>
-                  <td>Frameworks</td>
+                  <td>Frameworks / Libraries</td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" width="70"/>&nbsp;
                   </td>
                   <td>
                            <img src="https://github.com/akkadotnet/akka.net/blob/dev/docs/shfb/icons/AkkaNetLogo.Normal.png?raw=true" title="Akka.NET" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                           <img src="https://cdn-media-1.freecodecamp.org/images/0*JnJHfNGV4tkv8UPw.png" alt="MS Orleans" width="70">
                   </td>
                   <td>
                            <img src="https://www.true.nl/wp-content/uploads/2018/08/Microsoft-ASP-dot-NET-800x450.png" title="Akka.NET" width="70"/>&nbsp;
