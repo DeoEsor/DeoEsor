@@ -109,9 +109,6 @@
                            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" width="70"/>&nbsp;
                   </td>
                   <td>
-                           <img src="https://github.com/akkadotnet/akka.net/blob/dev/docs/shfb/icons/AkkaNetLogo.Normal.png?raw=true" title="Akka.NET" width="70"/>&nbsp;
-                  </td>
-                  <td>
                            <img src="https://learn.microsoft.com/en-us/training/achievements/aspnetcore/persist-data-ef-core.svg" alt="EF" width="70">
                   </td>
                   <td>
