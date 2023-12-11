@@ -1,5 +1,5 @@
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&center=true&vCenter=true&multiline=true&width=900&height=111&lines=Hi%2C+my+name+is+Valeriy.;I+like+to+study+software+architecture+and+design+via+.NET+Core%2FC%23.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&center=true&vCenter=true&multiline=true&width=900&height=111&lines=Hi%2C+my+name+is+Valeriy.)](https://git.io/typing-svg)
 
 <table>
 <tr> 
