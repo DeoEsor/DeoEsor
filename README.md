@@ -13,7 +13,7 @@ Prev worked at in [Exbyte Studios](https://vk.com/exbytestudios)
 
 - Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
 
-- I share my containers on [Docker Hub](https://hub.docker.com/u/deoesor). 
+- I share my images on [Docker Hub](https://hub.docker.com/u/deoesor). 
 
 - Answering on some questions at [Stack Overflow](https://stackoverflow.com/users/20314269/valeriy-vartumyan).
    
