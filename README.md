@@ -39,10 +39,13 @@ Prev worked at in [Exbyte Studios](https://vk.com/exbytestudios)
          <tr> 
                   <td>Languages</td>
                   <td>
-                           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" width="70"/>&nbsp;
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Goddess CSharp" width="70"/>&nbsp;
                   </td>
                   <td>
                            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" width="70"/>&nbsp;
+                  </td>
+                  <td>
+                           <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" title="Go" width="70"/>&nbsp;
                   </td>
          </tr>
          <tr> 
