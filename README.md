@@ -5,7 +5,7 @@
 <tr> 
 <td width="600">
 
-- I'm a student of MAI.
+- I'm a student of MAI. Senior(kinda) Go Developer, Lead .NET Developer, Team Lead.
 
 - Currently working in Glasno, Cloud.ru and [MAI](https://mai.ru/).
 - ex-Gazprombank, ex-[Ozon Tech](https://ozon.tech/), ex-[Exbyte Studios](https://vk.com/exbytestudios)
