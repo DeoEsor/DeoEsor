@@ -7,8 +7,8 @@
 
 - I'm a student of MAI.
 
-- Currently working in Glasno, Gazprombank and [MAI](https://mai.ru/).
-- ex-[Ozon Tech](https://ozon.tech/), ex-[Exbyte Studios](https://vk.com/exbytestudios)
+- Currently working in Glasno, Cloud.ru and [MAI](https://mai.ru/).
+- ex-Gazprombank, ex-[Ozon Tech](https://ozon.tech/), ex-[Exbyte Studios](https://vk.com/exbytestudios)
 
 - Busy by solving some problems on [LeetCode](https://leetcode.com/DeoEsor/), [CodeWars](https://www.codewars.com/users/DeoEsor) and CF.
 
